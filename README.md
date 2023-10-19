@@ -1,15 +1,11 @@
-# Práctico 5
+# Práctico 6
 
 ### Modeling
-
-- Experiment tracking
- - wandb
-
-- Hparam tuning
 
 - Gradio
 
 - Optimización
+
   - Quantization
   - Pruning 
 
