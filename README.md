@@ -1,11 +1,10 @@
-# Práctico 6
+# Práctico 7
 
 ### Modeling
 
 - Gradio
 
 - Optimización
-
   - Quantization
   - Pruning 
 
