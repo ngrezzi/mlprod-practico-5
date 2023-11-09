@@ -2,7 +2,7 @@
 
 ### Modeling
 
-- Gradio
+- Gradio==3.14.0
 
 - Optimización
   - Quantization
